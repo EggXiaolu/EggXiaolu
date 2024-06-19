@@ -1,5 +1,5 @@
 ### Here is EggXiaolu 
-- 🧑‍🎓 I am a university student majoring in Network Engineering.
+- 🎓 I am a university student majoring in Network Engineering.
 - 🌱 I’m currently learning Computer System Architecture and RISC-V.
 - 📫 How to reach me: luyuxineggegg@126.com.
 
