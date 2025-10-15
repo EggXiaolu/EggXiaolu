@@ -1,7 +1,7 @@
 ### Here is EggXiaolu 
 - 🎓 I am a university student majoring in Network Engineering.
 - 🌱 I’m currently learning Computer System Architecture and RISC-V.
-- 📫 How to reach me: luyuxineggegg@126.com.
+- 📫 How to reach me: luyuxin030@gmail.com.
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EggXiaolu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
